@@ -1,0 +1,886 @@
+
+/*==========LOGIN PAGE START============ */
+
+#loginbody
+{
+	background-color:rgba(0,0,0,0.4);	
+}
+
+h1#h01
+{
+	opacity:0.5;
+	text-align:center;
+	font-size:500%;
+	font-family:Verdana, Geneva, sans-serif;
+}
+
+div#loginheader
+{
+	background: rgba(54, 25, 25, .2);
+	width:700px;
+	height:auto;
+}
+
+div#d02
+{
+	position:absolute;
+	width:1340px;
+	height:800px;
+	
+}
+div#d03
+{
+	position:absolute;
+	top:0px;
+	background-color:rgba(0,0,0,0.4);
+	width:1340px;
+	height:800px;
+	
+}
+
+div#loginformbg
+{
+	top:90px;
+	position:fixed;
+	right:50px;
+	padding-left:12.5px !important;
+	padding-right:12.5px !important;
+	padding-top:50px !important;
+	padding-bottom:25px !important;
+	background: rgba(166, 166, 166,0.7);
+	width:420px;
+	height:470px;
+	
+}
+div#logo
+{
+	position:fixed;
+	top:130px;
+	left:200px;
+}
+div#lform
+{
+	
+	background-color:#f2f2f2;
+	width:375px;
+	height:400px;
+	text-align:center;
+}
+
+div#lformheader
+{
+	padding-top:15px;
+	background-color:orange;
+	width:375px;
+	height:40px;
+	color:white;
+	text-align:center;
+	font-size:25px;
+	font-family:Verdana, Geneva, sans-serif;
+	
+}
+h4#h02
+{
+	background-color:orange;
+	width:375px;
+	height:50px;
+	color:white;
+	text-align:center;
+	font-size:150%;
+	font-family:Verdana, Geneva, sans-serif;
+}
+
+form#flogin
+{
+	background-color:black;
+}
+input#in01
+{
+	background-color:white;
+	width:330px;
+	height:40px;
+}
+
+input#in02
+{
+	background-color:white;
+	width:330px;
+	height:40px;
+}
+
+#lsubmit
+{
+	background-color:#0099ff;
+	width:330px;
+	height:40px;
+	color:white;
+}
+
+button#baccount
+{
+	background-color:#0099ff;
+	width:330px;
+	height:40px;
+}
+
+a#fpassword
+{
+	
+}
+#loginform
+{
+	
+}
+
+/*==========LOGIN PAGE END============ */
+
+/*==========FORM PAGE END============ */
+
+#formbody
+{
+	
+	background: url('images/loginbg.jpg') no-repeat fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#formpage
+{
+	
+}
+#formbg
+{
+	background-color:grey;
+	width:800px;
+	background: rgba(54, 25, 25, 0.4);
+	padding-left:50px !important;
+	padding-right:50px !important;
+	padding-top:100px !important;
+	padding-bottom:100px !important;
+}
+#header
+{
+	
+	background: #0099ff;
+	font-size:400%;
+	height:100px;
+	color:white;
+	text-align:center;
+	padding-top:15px;
+}
+
+
+#info
+{
+	background-color:#f2f2f2;
+	text-align:center;
+	width:800px;
+	
+}
+#formheader
+{
+	border-bottom:5px solid;
+	border-bottom-color:#00cc66;
+	width:800px;
+	height:40px;
+	background-color:#666666;
+	color:white;
+	padding-top:15px;
+	font-size:130%;
+	font-family:Verdana, Geneva, sans-serif;
+}
+
+#pform
+{
+	
+}
+#forminput
+{
+	width:600px;
+	height:30px;
+}
+
+#mgender
+{
+	
+}
+#fgender
+{
+	
+}
+#selectinput
+{
+	width:120px;
+	height:30px;
+	text-align:center;
+	
+}
+#month
+{
+	width:100px;
+	height:30px;
+}
+
+table#edutable
+{
+	
+}
+tr#rowheader
+{
+	background-color:black;
+	color:white;
+	width:700px;
+}
+
+tr#row
+{
+	background-color:#f2f2f2;
+	
+}
+
+select#tableselect
+{
+	width:70px;
+	height:40px;
+}
+input#tableinput
+{
+	width:100px;
+	height:40px;
+}
+
+input#submit
+{
+	border-bottom:4px solid;
+	border-bottom-color:orange;
+	background-color:#0099ff;
+	width:100px;
+	height:50px;
+	color:white;
+	font-size:100%;
+}
+input#submit:hover
+{
+	background:orange;
+}
+input#reset
+{
+	border-bottom:4px solid;
+	border-bottom-color:orange;
+	background-color:#0099ff;
+	width:100px;
+	height:50px;
+	color:white;
+	font-size:100%;
+}
+input#reset:hover
+{
+	background:orange;
+}
+
+img#uploadpic
+{
+	width:200px;
+	height:200px;
+	align:center;
+}
+
+
+
+/*===========FORM PAGE END HERE============*/
+
+/*===========PROFILE PAGE STARTS HERE==========*/
+
+body#profilebody
+{
+	background-color:#666666;
+	/*background:url('images/adminbg.jpg') fixed;*/
+}
+div#profileheader
+{
+	width:100%;
+    top:0px;
+	background:black;
+	height:100px;
+	color:white;
+	font-size:400%;
+}
+
+#headerrow
+{
+	background-color:orange;
+    border-width: 5px;
+	
+}
+div#dropdown
+{
+	position:absolute;
+	top:100px;
+	background-color:#666666;
+	width:250px;
+	height:470px;
+	
+	
+}
+
+#droplink
+{
+	text-decoration:none;
+}
+
+
+
+#dropdiv
+{
+	
+	padding-top:10px;
+	width:250px;
+	height:40px;
+	font-size:120%;
+	font-family:Verdana, Geneva, sans-serif;
+	color:#f2f2f2;
+	
+}
+#dropdiv:hover
+{
+	
+	padding-top:10px;
+	width:250px;
+	height:40px;
+	font-size:120%;
+	font-family:Verdana, Geneva, sans-serif;
+	color:#f2f2f2;
+	background-color:orange;
+	
+}
+
+
+div#profilefooter
+{
+	padding-top:20px;
+	background-color:black;
+	color:white;
+	height:50px;
+	font-size:120%;
+	bottom:0px;
+	width:100%;	
+}
+div#personalinfo
+{
+	background-color:rgba(0,0,0,0.1);
+	position:absolute;
+    top:200px;
+    left:300px;
+	right:0px;
+	width:1000px;
+	padding-top:10px;
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom:10px;
+}
+div#picandname
+{
+	background-color:#f2f2f2;
+	
+}
+div#username
+{
+	left:180px;
+	width:30%;
+	top:100px;
+	position:absolute;
+	
+}
+div#userpic
+{
+	border:1px solid;
+	height:150px;
+	width:150px;
+	top:0px;
+	left:10%;
+}
+div#userdata
+{
+	border:2px solid;
+	font-size:130%;
+	background-color:#f2f2f2;
+}
+table#edudata
+{
+	width:1000px;
+	height:150px;
+	text-align:center;
+}
+table#pretable
+{
+	width:1000px;
+	height:100px;
+	text-align:center;
+}
+#thead
+{
+	background-color:black;
+	color:white;
+	
+}
+#datalist
+{
+	
+}
+
+/*=======Personal Infornation Ends here=====*/
+/*=======Entry test slip starts here=====*/
+
+
+div#HTMLtoPDF
+{
+	border:2px solid;
+	position:absolute;
+	top:150px;
+	left:350px;
+	width:800px;
+	background-color:orange;
+}
+#slipdata
+{
+	width:75%;
+	font-family:"Comic Sans MS", cursive, sans-serif;
+	font-size:120%;
+}
+#sliplist
+{
+	
+}
+div#slippic
+{
+	position:absolute;
+	top:20%;
+	left:75%;
+	
+}
+#download
+{
+	position:absolute;
+	top:85%;
+	left:48%;
+	width:150px;
+	height:50px;
+}
+
+div#notest
+{
+	border:1px;
+	position:absolute;
+	top:275px;
+	left:500px;
+	background-color:black;
+	color:white;
+	font-size:150%;
+	opacity:0.5;
+	height:100px;
+	padding-top:70px;
+}
+
+div#notest:hover
+{
+	border:1px;
+	position:absolute;
+	top:275px;
+	left:500px;
+	background-color:orange;
+	color:white;
+	font-size:150%;
+	opacity:0.5;
+	height:100px;
+	padding-top:70px;
+}
+
+
+
+
+/*===========Admin Page=========*/
+
+
+#abody
+{
+	background-color:rgba(102,102,102,0.4);
+	background:url('images/slide1.jpg') fixed;
+}
+
+div#adminheader
+{
+	border-bottom:5px solid;
+	border-bottom-color:orange;
+	position:fixed;
+	top:0px;
+	width:100%;
+	height:50px;
+	background-color:#666666;
+	color:white;
+	font-size:200%;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+div#mcqicon
+{
+	position:absolute;
+	top:200px;
+	left:250px;
+	width:170px;
+	height:110px;
+	background-color:#1e90ff;
+	padding-top:60px;
+	font-size:150%;
+	color:white;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	text-decoration:none;
+	
+	
+}
+
+div#mcqicon:hover
+{
+	width:200px;
+	height:130px;
+	background-color:#1e90ff;
+}
+
+div#notiicon
+{
+	position:absolute;
+	top:200px;
+	left:600px;
+	width:170px;
+	height:110px;
+	background-color:orange;
+	padding-top:60px;
+	font-size:150%;
+	color:white;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	
+}
+
+div#notiicon:hover
+{
+	width:200px;
+	height:130px;
+	background-color:orange;
+}
+
+div#edateicon
+{
+	position:absolute;
+	top:200px;
+	left:940px;
+	width:170px;
+	height:110px;
+	background-color:#00ff7f;
+	padding-top:60px;
+	font-size:150%;
+	color:white;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+div#edateicon:hover
+{
+	width:200px;
+	height:130px;
+	background-color:#00ff7f;
+}
+
+div#mdateicon
+{
+	position:absolute;
+	top:520px;
+	left:250px;
+	width:170px;
+	height:110px;
+	background-color:#ffa07a;
+	padding-top:60px;
+	font-size:150%;
+	color:white;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	
+	
+}
+
+div#mdateicon:hover
+{
+	width:200px;
+	height:130px;
+	background-color:#ffa07a;
+}
+
+div#passicon
+{
+	position:absolute;
+	top:520px;
+	left:600px;
+	width:170px;
+	height:110px;
+	background-color:#00cc66;
+	padding-top:60px;
+	font-size:150%;
+	color:white;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	
+}
+
+
+div#passicon:hover
+{
+	width:200px;
+	height:130px;
+	background-color:#00cc66;
+}
+
+div#meritlist
+{
+	position:absolute;
+	top:850px;
+	left:600px;
+	width:170px;
+	height:100px;
+	background-color:#00cc66;
+	padding-top:60px;
+	font-size:150%;
+	color:white;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	
+}
+
+div#meritlist:hover
+{
+	width:200px;
+	height:130px;
+	background-color:#00cc66;
+}
+
+div#adminfooter
+{
+	position:absolute;
+	width:100%;
+	height:50px;
+	background-color:#666666;
+	color:white;
+	font-size:100%;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	top:850px;
+
+}
+
+
+/*=======upload mcqs=========*/
+
+div#upmcqbg
+{
+	padding-bottom:100px !important;
+	padding-top:250px !important;
+	padding-left:250px !important;
+	padding-right:250px !important;
+}
+
+div#upmcq
+{
+	background-color:#f6f6f6;
+}
+div#adformhead
+{
+	
+	background-color:#666666;
+	height:40px;
+	color:white;
+	font-size:120%;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+div#goback
+{
+	position:absolute;
+	width:100px;
+	height:40px;
+	border-bottom:4px solid;
+	border-bottom-color:orange;
+	left:42%;
+	background-color:#0099ff;
+	text-decoration:none;
+	font-size:110%;
+	color:white;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;	
+	
+}
+div#goback:hover
+{
+	background:orange;
+}
+
+#quest
+{
+	width:700px;
+	height:35px;
+}
+
+#option
+{
+	width:300px;
+	height:35px;
+}
+div#addmore
+{
+	position:absolute;
+	width:100px;
+	height:40px;
+	border-bottom:4px solid;
+	border-bottom-color:orange;
+	left:52%;
+	background-color:#0099ff;
+	text-decoration:none;
+	font-size:110%;
+	color:white;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;	
+	
+}
+div#addmore:hover
+{
+	background:orange;
+}
+
+
+div#entrytest
+{
+	background-color:#f2f2f2;
+	font-size:110%;
+	position:absolute;
+    top:200px;
+    left:200px;
+	width:1000px;
+	padding-top:10px;
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom:10px;
+}
+
+div#adformhead
+{
+	
+	background-color:#666666;
+	height:40px;
+	color:white;
+	font-size:120%;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+#submittest
+{
+	background-color:#0099ff;
+	width:90px;
+	height:40px;
+	color:white;
+	position:absolute;
+	left:45%;
+}
+div#testtime
+{
+	position:fixed;
+	top:20%;
+	left:85%;
+	width:150px;
+	height:70px;
+	background-color:#0099ff;
+	padding-top:20px;
+	font-size:140%;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	border:5px solid;
+	border-color:orange;
+}
+
+div#result
+{
+	background-color:#f2f2f2;
+	font:120%;
+	border:1px;
+	position:absolute;
+	top:175px;
+	left:500px;
+	font-size:120%;
+}
+div#totalresult
+{
+	background-color:#f2f2f2;
+	font:120%;
+	border:1px;
+	position:absolute;
+	top:275px;
+	left:1000px;
+	font-size:120%;
+}
+
+
+div#merit_status
+{
+	top:90px;
+	position:fixed;
+	left:400px;
+	padding-left:12.5px !important;
+	padding-right:12.5px !important;
+	padding-top:50px !important;
+	padding-bottom:25px !important;
+	background: rgba(166, 166, 166,1.5);
+	width:420px;
+	height:470px;
+	font-size:120%;
+}
+div#fee_guide
+{
+	top:90px;
+	position:fixed;
+	right:50px;
+	padding-left:12.5px !important;
+	padding-right:12.5px !important;
+	padding-top:50px !important;
+	padding-bottom:25px !important;
+	background: rgba(166, 166, 166,1.5);
+	width:420px;
+	height:470px;
+	font-size:150%;
+	
+}
+
+
+div#starttest
+{
+	position:absolute;
+	top:520px;
+	left:940px;
+	width:170px;
+	height:110px;
+	background-color:#00cc66;
+	padding-top:60px;
+	font-size:150%;
+	color:white;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	
+}
+div#starttest:hover
+{
+	width:200px;
+	height:130px;
+	background-color:#00cc66;
+}
+#logout
+{
+	background-color:#0099ff;
+	width:80px;
+	height:40px;
+	position:fixed;
+	top:5px;
+	right:30px;
+	color:white;
+	font-size:120%;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+#logout:hover
+{
+	background-color:orange;
+}
+
+

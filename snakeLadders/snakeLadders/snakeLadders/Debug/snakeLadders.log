@@ -1,0 +1,76 @@
+﻿Build started 20-Jun-16 1:15:16 AM.
+     1>Project "F:\BSSE\2nd Semester\snakeLadders\snakeLadders\snakeLadders.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\SFML-2.3.2\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Game.cpp Player.cpp SnakeLadders.cpp Source.cpp
+         SnakeLadders.cpp
+     1>f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(377): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(379): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(380): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(383): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(386): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(393): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(414): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(428): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(432): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(449): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(465): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(466): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(467): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(473): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(550): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(491) : definition of 'i' ignored
+                 f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(476) : definition of 'i' used
+     1>f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(565): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(491) : definition of 'i' ignored
+                 f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(476) : definition of 'i' used
+     1>f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(576): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(491) : definition of 'i' ignored
+                 f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(476) : definition of 'i' used
+     1>f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(577): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(491) : definition of 'i' ignored
+                 f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(476) : definition of 'i' used
+     1>f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(579): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(491) : definition of 'i' ignored
+                 f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(476) : definition of 'i' used
+     1>f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(582): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(491) : definition of 'i' ignored
+                 f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(476) : definition of 'i' used
+     1>f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(583): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(491) : definition of 'i' ignored
+                 f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(476) : definition of 'i' used
+     1>f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(584): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(491) : definition of 'i' ignored
+                 f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(476) : definition of 'i' used
+     1>f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(660): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(662): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(761): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(763): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(767): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(811): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(813): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>f:\bsse\2nd semester\snakeladders\snakeladders\snakeladders.cpp(817): warning C4305: 'argument' : truncation from 'double' to 'float'
+         Player.cpp
+     1>f:\bsse\2nd semester\snakeladders\snakeladders\player.cpp(47): warning C4244: '=' : conversion from 'time_t' to 'unsigned int', possible loss of data
+         Game.cpp
+     1>f:\bsse\2nd semester\snakeladders\snakeladders\game.cpp(29): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>f:\bsse\2nd semester\snakeladders\snakeladders\game.cpp(30): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>f:\bsse\2nd semester\snakeladders\snakeladders\game.cpp(31): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>f:\bsse\2nd semester\snakeladders\snakeladders\game.cpp(32): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>f:\bsse\2nd semester\snakeladders\snakeladders\game.cpp(33): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>f:\bsse\2nd semester\snakeladders\snakeladders\game.cpp(34): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>f:\bsse\2nd semester\snakeladders\snakeladders\game.cpp(35): warning C4305: 'argument' : truncation from 'double' to 'float'
+         Generating Code...
+         Compiling...
+         Source.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\BSSE\2nd Semester\snakeLadders\Debug\snakeLadders.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\SFML-2.3.2\lib" "sfml-system-d.lib" "sfml-window-d.lib" "sfml-graphics-d.lib" "sfml-network-d.lib" "sfml-audio-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\BSSE\2nd Semester\snakeLadders\Debug\snakeLadders.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\BSSE\2nd Semester\snakeLadders\Debug\snakeLadders.lib" /MACHINE:X86 Debug\Game.obj
+         Debug\Player.obj
+         Debug\SnakeLadders.obj
+         Debug\Source.obj
+         snakeLadders.vcxproj -> F:\BSSE\2nd Semester\snakeLadders\Debug\snakeLadders.exe
+     1>Done Building Project "F:\BSSE\2nd Semester\snakeLadders\snakeLadders\snakeLadders.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:09.78
